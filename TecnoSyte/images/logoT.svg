@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="16px" height="16px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 16 16"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="667" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="." horiz-adv-x="277" d="M91 0l0 100 100.004 0 0 -100 -100.004 0z"/>
+   <glyph unicode="t" horiz-adv-x="277" d="M256.947 78.4959l12.006 -77.6766c-24.6738,-5.13643 -46.8266,-7.81493 -66.1748,-7.81493 -31.8269,0 -56.4692,5.01038 -74.1473,15.1572 -17.4891,10.1783 -29.8102,23.3187 -36.9949,39.8309 -7.15318,16.4807 -10.651,51.1437 -10.651,103.989l0 298.921 -64.9774 0 0 67.971 64.9774 0 0 128.316 87.981 52.8138 0 -181.13 87.981 0 0 -67.971 -87.981 0 0 -303.931c0,-25.1779 1.48106,-41.3435 4.66375,-48.4967 2.99362,-7.15318 8.004,-12.8253 14.9996,-17.1739 6.99562,-4.15956 16.9849,-6.30236 29.9993,-6.30236 9.64262,0 22.4679,1.16594 38.3184,3.49781z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil1 {fill:#373435}
+    .fil0 {fill:#A8518A}
+    .fnt1 {font-weight:normal;font-size:19.99px;font-family:'Arial'}
+    .fnt0 {font-weight:normal;font-size:160px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(0.999961 0 0 1 -22.5591 8)">
+   <text x="8" y="8"  class="fil0 fnt0">.</text>
+  </g>
+  <g transform="matrix(1.79314 0 0 1 -11.4527 6.92639)">
+   <text x="8" y="8"  class="fil1 fnt1">t</text>
+  </g>
+ </g>
+</svg>
